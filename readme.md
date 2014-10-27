@@ -1,4 +1,4 @@
-# CouchApp generator [![Build Status](https://secure.travis-ci.org/garbados/generator-couchapp.png?branch=master)](http://travis-ci.org/garbados/generator-couchapp)
+# CouchApp generator [![Build Status](https://secure.travis-ci.org/runlevelsix/generator-couchapp.png?branch=master)](http://travis-ci.org/runlevelsix/generator-couchapp)
 
 Yeoman generator that scaffolds front-end web apps, and deploys them as CouchApps.
 
@@ -17,7 +17,7 @@ Stolen almost entirely from [generator-webapp](https://github.com/yeoman/generat
 * Optional - Twitter Bootstrap for SASS
 * Optional - Leaner Modernizr builds (new)
 
-For more information on what `generator-couchapp` can do for you, take a look at the [Grunt tasks](https://github.com/garbados/generator-couchapp/blob/master/app/templates/_package.json) used in our `package.json`.
+For more information on what `generator-couchapp` can do for you, take a look at the [Grunt tasks](https://github.com/runlevelsix/generator-couchapp/blob/master/app/templates/_package.json) used in our `package.json`.
 
 ## Getting Started
 
@@ -44,7 +44,7 @@ For more information on what `generator-couchapp` can do for you, take a look at
 
 Want something? Either:
 
-1. Raise an [issue](https://github.com/garbados/generator-couchapp/issues).
+1. Raise an [issue](https://github.com/runlevelsix/generator-couchapp/issues).
 2. Fork me, and make a pull request.
 
 Happy to consider any changes :D
